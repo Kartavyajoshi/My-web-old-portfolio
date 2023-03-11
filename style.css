@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Tilt Neon', cursive;
+
+}
+
+h1 {
+    /* font-family: 'Cinzel Decorative', cursive; */
+
+    text-align: center;
+    color: rgb(0, 191, 255);
+    font-size: 50px;
+}
+
+h2 {
+
+    text-align: center;
+    color: rgb(0, 191, 255);
+    font-size: 30px;
+}
+
+p {
+
+    font-size: 20px;
+    width: 40%;
+    position: relative;
+    left: 32%;
+}
+
+.name {
+
+    text-align: center;
+}
+.name1{
+    font-size: 70px;
+    font-family: 'Sacramento', cursive;
+
+}
+.pro {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(47, 107, 140);
+}
+
+.top {
+    height: max-content;
+}
+
+.cloud-1 {
+    top: 100px;
+    position: relative;
+    left: 1100px;
+    width: 130px;
+    display: block;
+}
+
+.cloud-2 {
+    bottom: 100px;
+    position: relative;
+    left: 110px;
+    width: 130px;
+    display: block;
+}
+
+.mountain {
+    position: relative;
+    width: 750px;
+    left: 320px;
+    bottom: 270px;
+    margin-bottom: 0px;
+
+}
+
+.myphoto {
+    border-radius: 100%;
+    height: 200px;
+
+}
+
+.middle {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.line {
+    height: 0;
+    border-bottom: none;
+    border-radius: 0px;
+    border-style: groove;
+    width: 24%;
+}
+
+.language {
+    height: 150px;
+    position: relative;
+    left: 44%;
+}
+
+.code {
+    display: block;
+    position: relative;
+}
+
+.dpara {
+    position: relative;
+    right: 44%;
+    right: 20px;
+}
+
+.list {
+    font-weight: 400;
+    list-style: none;
+    font-size: 20px;
+    position: relative;
+    left: 40%;
+}
+
+.feedback {
+    position: relative;
+}
+
+form {
+    text-align: center;
+}
+
+textarea {
+    border-radius: 3%;
+}
+
+.button {
+    width: 200px;
+    font-size: medium;
+    background-color: rgba(63, 118, 136, 0.284);
+    border-radius: 10%;
+    border: none;
+    color: rgb(5, 5, 5);
+}
+
+.button:hover {
+    background-color: rgb(0, 191, 255);
+}
+
+.contactus {
+    color: white;
+    background-color: rgba(7, 188, 249, 0.718);
+    font-size: 40px;
+    padding: 12px;
+    border-radius: 04%;
+    text-decoration: none;
+}
+
+.contactus:hover {
+    background-color: rgb(0, 191, 255);
+}
+
+.img {
+    width: 40px;
+    height: 40px;
+}
+
+.lastmenu {
+    text-align: center;
+}
