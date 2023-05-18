@@ -73,6 +73,8 @@ p {
 }
 
 .myphoto {
+    display:block;
+    margin:auto;
     border-radius: 100%;
     height: 200px;
 
